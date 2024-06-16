@@ -1,4 +1,4 @@
-## ESP32 Smart Doorlock System
+# ESP32 Smart Doorlock System
 
 This is an ESP32 Project aims to provide secure access with multiple unlocking methods, prioritizing security and providing a seamless home accessibility experience.
 
@@ -14,3 +14,5 @@ This is an ESP32 Project aims to provide secure access with multiple unlocking m
 + 4x4 Keypad
 + PN532 RFID Scanner
 + Solenoid Lock
+
+## Circuit Diagram
