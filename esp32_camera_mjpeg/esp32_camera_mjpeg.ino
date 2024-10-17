@@ -25,14 +25,8 @@
 
 #include "camera_pins.h"
 
-#define SSID1 "LAPTOP-POONMY"
-#define PWD1 "asdfghjkl"
-// #define SSID1 "Poonmy"
-// #define PWD1 "qwertyuiop12345"
-// #define SSID1 "MooInter_7_2G"
-// #define PWD1 "Standard4000ml"
-// #define SSID1 "WATTANA-2.4G"
-// #define PWD1 "21512153"
+#define SSID1 "********"
+#define PWD1 "********"
 
 OV2640 cam;
 
