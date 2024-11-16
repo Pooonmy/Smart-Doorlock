@@ -1,4 +1,4 @@
-# ESP32 Smart Doorlock System
+# Smart Doorlock System
 
 This is an ESP32 Project aims to provide secure access with multiple unlocking methods, prioritizing security and providing a seamless home accessibility experience.
 
